@@ -215,4 +215,4 @@ Battleswarm is offered as a complete free version with all features and updates 
 Download Battleswarm today and step into the action-packed world of strategic warfare and shooting!
 
 ---
-**Last updated:** 2026-11-12 01:21:17 UTC
+**Last updated:** 2026-11-12 09:26:49 UTC
